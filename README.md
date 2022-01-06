@@ -1,1 +1,1 @@
-# odin-recipes
+THis a project of me trying to get a life
